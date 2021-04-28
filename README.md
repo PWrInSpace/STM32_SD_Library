@@ -32,6 +32,8 @@ http://elm-chan.org/fsw/ff/ffsample.zip
 
 ![FASTFS/Target/user_diskio_spi.h](https://raw.githubusercontent.com/PWrInSpace/STM32_SD_Library/main/SetupPictures/Setup6.png)
 
-8. Use an example code to save something on SD:
+8. Remember to include library "user_diskio_spi.h"
+9. Use an example code to save something on SD:
 
-PIC TODO
+![FASTFS/Target/user_diskio_spi.h](https://raw.githubusercontent.com/PWrInSpace/STM32_SD_Library/main/SetupPictures/ExampleCode.png)
+
