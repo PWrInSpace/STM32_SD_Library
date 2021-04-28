@@ -16,15 +16,15 @@ http://elm-chan.org/fsw/ff/ffsample.zip
 
 2. Set up SPI interface as Full-Duplex Master:
 
-![SPI settings](https://raw.githubusercontent.com/PWrInSpace/STM32_SD_Library/main/SetupPictures/Setup3.png)
+![SPI settings](https://raw.githubusercontent.com/PWrInSpace/STM32_SD_Library/main/SetupPictures/Setup4.png)
 
 3. Set up FAST file system:
 
-![FAST FS settings](https://raw.githubusercontent.com/PWrInSpace/STM32_SD_Library/main/SetupPictures/Setup4.png)
+![FAST FS settings](https://raw.githubusercontent.com/PWrInSpace/STM32_SD_Library/main/SetupPictures/Setup5.png)
 
 4. Set up slave select pin and name it as shown below:
 
-![GPIO settings](https://raw.githubusercontent.com/PWrInSpace/STM32_SD_Library/main/SetupPictures/Setup5.png)
+![GPIO settings](https://raw.githubusercontent.com/PWrInSpace/STM32_SD_Library/main/SetupPictures/Setup3.png)
 
 5. Generate project code.
 6. Copy the FASTFS folder to your project directory - replace if needed
