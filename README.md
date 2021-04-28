@@ -16,21 +16,21 @@ Setup guide:
 
 2. Set up SPI interface as Full-Duplex Master:
 
-PIC TODO
+![SPI settings](https://raw.githubusercontent.com/PWrInSpace/STM32_SD_Library/main/SetupPictures/Setup3.png)
 
 3. Set up FAST file system:
 
-PIC TODO
+![FAST FS settings](https://raw.githubusercontent.com/PWrInSpace/STM32_SD_Library/main/SetupPictures/Setup4.png)
 
 4. Set up slave select pin and name it as shown below:
 
-PIC TODO
+![GPIO settings](https://raw.githubusercontent.com/PWrInSpace/STM32_SD_Library/main/SetupPictures/Setup5.png)
 
 5. Generate project code.
 6. Copy the FASTFS folder to your project directory - replace if needed
 7. In FASTFS/Target/user_diskio_spi.h file change the HAL library for your processor and spi handler number:
 
-PIC TODO
+![FASTFS/Target/user_diskio_spi.h](https://raw.githubusercontent.com/PWrInSpace/STM32_SD_Library/main/SetupPictures/Setup6.png)
 
 8. Use an example code to save something on SD:
 
