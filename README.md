@@ -11,7 +11,8 @@ Setup guide:
 
 1. Create or open new Cube Ide / CubeMX project and don't forget to turn on generatinc .c / .h files for peripherals, turn on debug (Serial Wire):
 
-PIC TODO
+![Code generator settings](https://raw.githubusercontent.com/PWrInSpace/STM32_SD_Library/main/SetupPictures/Setup1.png)
+![Sys settings](https://raw.githubusercontent.com/PWrInSpace/STM32_SD_Library/main/SetupPictures/Setup2.png)
 
 2. Set up SPI interface as Full-Duplex Master:
 
