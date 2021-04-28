@@ -1,6 +1,8 @@
 # STM32_SD_Library
 Easy to implement library for SD card spi connection for STM32 &amp; HAL/CubeIDE.
 
+This library is only remake of popular SD SPI STM library - made for easier implementation for beginners.
+
 Sources:
 
 https://01001000.xyz/2020-08-09-Tutorial-STM32CubeIDE-SD-card/
